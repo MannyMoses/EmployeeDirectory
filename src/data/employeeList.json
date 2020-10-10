@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "phone": "(425) 711-8439",
+        "firstName": "Erik",
+        "lastName": "De Luna",
+        "email": "Erik@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 2,
+        "phone": "(242) 436-4140",
+        "firstName": "Dale",
+        "lastName": "Kittendorf",
+        "email": "dale@email.com",
+        "type": "Music Supervisor"
+    },
+    {
+        "id": 3,
+        "phone": "(642) 824-0432",
+        "firstName": "Jeff",
+        "lastName": "Cartagena",
+        "email": "Jeff@email.com",
+        "type": "React Guru"
+    },
+    {
+        "id": 4,
+        "phone": "(850) 799-3790",
+        "firstName": "Molly",
+        "lastName": "Gilbert",
+        "email": "Molly@email.com",
+        "type": "Notion Expert"
+    },
+    {
+        "id": 5,
+        "phone": "(477) 644-0072",
+        "firstName": "Jonathan",
+        "lastName": "Bentley",
+        "email": "Jonathan@mail.com",
+        "type": "Security Engineer"
+    },
+    {
+        "id": 6,
+        "phone": "(430) 467-2006",
+        "firstName": "Manny",
+        "lastName": "Moses",
+        "email": "Manny@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 7,
+        "phone": "(387) 499-3268",
+        "firstName": "Tyler",
+        "lastName": "D'Angelo",
+        "email": "Tyler@email.com",
+        "type": "Bulma Expert"
+    },
+    {
+        "id": 8,
+        "phone": "(547) 221-2781",
+        "firstName": "Lia",
+        "lastName": "Graham",
+        "email": "Lia@mail.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 9,
+        "phone": "(481) 452-5793",
+        "firstName": "Rachel",
+        "lastName": "Adu",
+        "email": "Rachel@email.com",
+        "type": "Analyst"
+    },
+    {
+        "id": 10,
+        "phone": "(413) 326-0251",
+        "firstName": "Alba",
+        "lastName": "Osmanaj",
+        "email": "Alba@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 11,
+        "phone": "(525) 254-8047",
+        "firstName": "Carmen",
+        "lastName": "Johnson",
+        "email": "Carmen@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 12,
+        "phone": "(451) 408-3747",
+        "firstName": "Samir",
+        "lastName": "Bello",
+        "email": "Samir@email.com",
+        "type": "Operations Analyst"
+    },
+    {
+        "id": 13,
+        "phone": "(493) 973-2496",
+        "firstName": "Evan",
+        "lastName": "Boswood",
+        "email": "Evan@email.com",
+        "type": "Network Engineer"
+    },
+    {
+        "id": 14,
+        "phone": "(556) 546-7695",
+        "firstName": "Alex",
+        "lastName": "Saint Victor",
+        "email": "Alex@email.com",
+        "type": "Software Engineer"
+    },
+    {
+        "id": 15,
+        "phone": "(433) 248-9886",
+        "firstName": "Austin",
+        "lastName": "Walker",
+        "email": "Austin@email.com",
+        "type": "Human Resources"
+    },
+    {
+        "id": 16,
+        "phone": "(313) 220-5425",
+        "firstName": "Gwen",
+        "lastName": "Sanabria",
+        "email": "Gwen@email.com",
+        "type": "Marketing"
+    },
+    {
+        "id": 17,
+        "phone": "(850) 617-9594",
+        "firstName": "Sabrina",
+        "lastName": "Hollett",
+        "email": "Sabrina@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 18,
+        "phone": "(482) 461-2002",
+        "firstName": "Antonio",
+        "lastName": "Gage",
+        "email": "Antonio@email.com",
+        "type": "React Guru"
+    },
+    {
+        "id": 19,
+        "phone": "(600) 727-9977",
+        "firstName": "Ariel",
+        "lastName": "Cuesta",
+        "email": "Ariel@email.com",
+        "type": "Database Engineer"
+    },
+    {
+        "id": 20,
+        "phone": "(204) 859-6921",
+        "firstName": "Nicole",
+        "lastName": "Davenport",
+        "email": "Nicole@email.com",
+        "type": "Software Developer"
+    }
+]
